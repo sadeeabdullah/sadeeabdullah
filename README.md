@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-![the banner image for the profile](https://i.ibb.co/Lh4J6YR/Blue-Gradient-Modern-Startup-Coming-Soon-Banner.png)
+(https://i.ibb.co/Lh4J6YR/Blue-Gradient-Modern-Startup-Coming-Soon-Banner.png)
 
 <!--
 **sadeeabdullah/sadeeabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
