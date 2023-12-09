@@ -40,4 +40,4 @@ Hello!👋 I'm Sadee Abdullah, a passionate Front end web developer interested i
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadeeabdullah&theme=highcontrast&hide_border=true&border_radius=15.3)](https://github.com/sadeeabdullah)
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadeeabdullah&theme=highcontrast&hide_border=true&border_radius=15.3)](https://github.com/sadeeabdullah)
+
