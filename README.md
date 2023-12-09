@@ -35,4 +35,4 @@ Hello!👋 I'm Sadee Abdullah, a passionate Front end web developer interested i
 [![My Skills](https://skillicons.dev/icons?i=,html,css,tailwindcss,js,react,nodejs,express,mongodb,vscode,git,github,figma)](https://skillicons.dev)
 
 # 📈 Current Status
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=highcontrast&hide_border=true&border_radius=15.3)](https://github.com/sadeeabdullah)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadeeabdullah&theme=highcontrast&hide_border=true&border_radius=15.3)](https://github.com/sadeeabdullah)
