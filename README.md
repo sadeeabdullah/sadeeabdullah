@@ -1,7 +1,7 @@
 
 
 
-![Alt text](https://i.ibb.co/Lh4J6YR/Blue-Gradient-Modern-Startup-Coming-Soon-Banner.png)
+![Alt text](https://github.com/sadeeabdullah/sadeeabdullah/blob/main/image/Blue%20Gradient%20Modern%20Startup%20Coming%20Soon%20Banner.png)
 
 
 <!--
