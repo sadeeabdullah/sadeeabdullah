@@ -28,7 +28,7 @@ Hello!👋 I'm Sadee Abdullah, a passionate Front end web developer interested i
 # 🌐 Social Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/sadeeabdullah)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sadeeabdullah.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto hello@sadeeabdullah.com)
 
 
 
