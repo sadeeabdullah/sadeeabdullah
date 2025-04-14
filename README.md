@@ -1,4 +1,4 @@
-![Alt text](https://github.com/sadeeabdullah/sadeeabdullah/blob/main/image/Blue%20Gradient%20Modern%20Startup%20Coming%20Soon%20Banner.png)
+![Alt text](https://github.com/sadeeabdullah/sadeeabdullah/blob/main/image/ChatGPT%20Image%20Apr%2014%2C%202025%2C%2007_18_33%20PM.png)
 
 # 💬 About Me
 
