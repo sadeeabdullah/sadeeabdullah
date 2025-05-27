@@ -10,7 +10,7 @@ Hello!👋 I'm Sadee Abdullah. I’m currently focused on **C programming** and 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadeeabdullah016@gmail.com)
 
 # 💡 Technical Proficiencies
-[![My Skills](https://skillicons.dev/icons?i=,html,css,tailwindcss,js,react,nodejs,express,mongodb,vscode,git,github,figma,c,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,tailwindcss,js,react,nodejs,express,mongodb,vscode,git,github,figma,c,cpp)](https://skillicons.dev)
 
 # 🧠 Current Learning Goals
 - 🔧 Currently working on **C programming** and practicing **problem solving**.
