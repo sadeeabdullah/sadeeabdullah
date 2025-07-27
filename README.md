@@ -1,13 +1,14 @@
+
 ![Hero Banner](https://github.com/sadeeabdullah/sadeeabdullah/blob/main/image/ChatGPT%20Image%20Apr%2014%2C%202025%2C%2007_18_33%20PM.png)
 
 # 💬 About Me
 
-Hi there! 👋 I'm **Sadee Abdullah** — a passionate learner who enjoys diving deep into **core programming concepts**, with a focus on writing efficient and logical code.
+Hi there! 👋 I'm **Sadee Abdullah** — a passionate learner who enjoys mastering **core programming concepts** and building a strong foundation in **logic and algorithms**.
 
-🎯 **Current Focus Areas**:
-- ✅ Solid foundation in **C** and **C++**
-- 🧠 Actively learning **Data Structures & Algorithms (DSA)**
-- 🔁 Practicing **problem solving** on a regular basis to improve logical thinking
+### 🎯 Current Focus:
+- ✅ Strengthening fundamentals in **C** and **C++**
+- 🧠 Deeply engaged in **Data Structures & Algorithms (DSA)**
+- 🔁 Practicing problem solving to enhance logical thinking and coding efficiency
 
 ---
 
@@ -20,15 +21,17 @@ Hi there! 👋 I'm **Sadee Abdullah** — a passionate learner who enjoys diving
 
 # 🛠️ Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,nodejs,express,mongodb,vscode,git,github,figma)](https://skillicons.dev)
+
+> 📝 *Note: While my current focus is on C/C++ and DSA, I also have experience working with web technologies (MERN stack).*
 
 ---
 
 # 🧠 Learning Journey
 
-- 📌 **C & C++**: Strong understanding of syntax, logic, and problem-solving
-- 🚀 **DSA**: Currently learning core data structures and algorithms (arrays, linked lists, stacks, queues, etc.)
-- 🎯 **Goal**: Improve coding efficiency and prepare for competitive programming & technical interviews
+- 📌 **C & C++**: Solid understanding of programming logic and syntax
+- 🚀 **DSA**: Exploring arrays, linked lists, stacks, queues, trees, and algorithms
+- 🎯 **Upcoming Goal**: Prepare for competitive programming and technical interviews
 
 ---
 
@@ -46,7 +49,7 @@ Hi there! 👋 I'm **Sadee Abdullah** — a passionate learner who enjoys diving
 
 ---
 
-# 🗓️ GitHub Activity Graph
+# 📊 GitHub Activity Graph
 
 <div align="center">
 
@@ -58,11 +61,10 @@ Hi there! 👋 I'm **Sadee Abdullah** — a passionate learner who enjoys diving
 
 # 📌 Upcoming Plans
 
-- 📘 Solve more DSA problems across platforms (LeetCode, Codeforces, etc.)
-- ✍️ Start a public repository to track learning and share helpful code snippets
-- 🧪 Explore C++ STL and real-world algorithmic applications
+- 📘 Continue solving DSA problems and sharing notes
+- ✍️ Create a public repo for C++ STL + DSA cheat sheets
+- 🎯 Long-term: explore system-level programming and OS fundamentals
 
 ---
 
 > 💡 *“Focus on fundamentals. Build a strong base, and everything else will follow.”*
-
